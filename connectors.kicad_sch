@@ -961,7 +961,7 @@
 	)
 	(hierarchical_label "D8"
 		(shape bidirectional)
-		(at 77.47 97.79 0)
+		(at 132.08 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -972,7 +972,7 @@
 	)
 	(hierarchical_label "D3"
 		(shape bidirectional)
-		(at 77.47 85.09 0)
+		(at 132.08 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -983,7 +983,7 @@
 	)
 	(hierarchical_label "MOSI"
 		(shape input)
-		(at 109.22 92.71 0)
+		(at 163.83 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -994,7 +994,7 @@
 	)
 	(hierarchical_label "RX"
 		(shape input)
-		(at 102.87 69.85 0)
+		(at 157.48 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1005,7 +1005,7 @@
 	)
 	(hierarchical_label "RESET"
 		(shape passive)
-		(at 96.52 95.25 180)
+		(at 151.13 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1014,9 +1014,9 @@
 		)
 		(uuid "264bba37-b359-4baa-a4e6-724a21a52397")
 	)
-	(hierarchical_label "SCL"
+	(hierarchical_label "SCK"
 		(shape passive)
-		(at 96.52 92.71 180)
+		(at 151.13 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1027,7 +1027,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 102.87 64.77 0)
+		(at 157.48 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1038,7 +1038,7 @@
 	)
 	(hierarchical_label "TX"
 		(shape output)
-		(at 102.87 72.39 0)
+		(at 157.48 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1049,7 +1049,7 @@
 	)
 	(hierarchical_label "MISO"
 		(shape output)
-		(at 96.52 90.17 180)
+		(at 151.13 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1060,7 +1060,7 @@
 	)
 	(hierarchical_label "D4"
 		(shape bidirectional)
-		(at 77.47 87.63 0)
+		(at 132.08 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1071,7 +1071,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 77.47 102.87 0)
+		(at 132.08 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1082,7 +1082,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 109.22 95.25 0)
+		(at 163.83 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1093,7 +1093,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 77.47 100.33 0)
+		(at 132.08 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1104,7 +1104,7 @@
 	)
 	(hierarchical_label "D2"
 		(shape bidirectional)
-		(at 77.47 82.55 0)
+		(at 132.08 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1115,7 +1115,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 109.22 90.17 0)
+		(at 163.83 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1126,7 +1126,7 @@
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
-		(at 77.47 69.85 0)
+		(at 132.08 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1137,7 +1137,7 @@
 	)
 	(hierarchical_label "D5"
 		(shape bidirectional)
-		(at 77.47 90.17 0)
+		(at 132.08 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1148,7 +1148,7 @@
 	)
 	(hierarchical_label "SCL"
 		(shape passive)
-		(at 77.47 72.39 0)
+		(at 132.08 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1159,7 +1159,7 @@
 	)
 	(hierarchical_label "D7"
 		(shape bidirectional)
-		(at 77.47 95.25 0)
+		(at 132.08 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1170,7 +1170,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 77.47 64.77 0)
+		(at 132.08 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1181,7 +1181,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 77.47 67.31 0)
+		(at 132.08 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1192,7 +1192,7 @@
 	)
 	(hierarchical_label "D6"
 		(shape bidirectional)
-		(at 77.47 92.71 0)
+		(at 132.08 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1203,7 +1203,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 102.87 67.31 0)
+		(at 157.48 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1214,7 +1214,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
-		(at 101.6 92.71 0)
+		(at 156.21 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1223,7 +1223,7 @@
 		(fields_autoplaced yes)
 		(uuid "481117be-3312-43bb-8b3a-c64370d84c17")
 		(property "Reference" "J4"
-			(at 102.87 83.82 0)
+			(at 157.48 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1231,7 +1231,7 @@
 			)
 		)
 		(property "Value" "Conn_02x03_Odd_Even"
-			(at 102.87 86.36 0)
+			(at 157.48 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1239,7 +1239,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-			(at 101.6 92.71 0)
+			(at 156.21 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1248,7 +1248,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 92.71 0)
+			(at 156.21 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1257,7 +1257,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 101.6 92.71 0)
+			(at 156.21 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1294,7 +1294,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 97.79 67.31 0)
+		(at 152.4 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1303,7 +1303,7 @@
 		(fields_autoplaced yes)
 		(uuid "b74efcc7-a184-4175-8c84-01d78937df60")
 		(property "Reference" "J2"
-			(at 98.425 59.69 0)
+			(at 153.035 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1311,7 +1311,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 98.425 62.23 0)
+			(at 153.035 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1319,7 +1319,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 97.79 67.31 0)
+			(at 152.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1328,7 +1328,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 67.31 0)
+			(at 152.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1337,7 +1337,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 97.79 67.31 0)
+			(at 152.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1368,7 +1368,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 72.39 67.31 0)
+		(at 127 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1377,7 +1377,7 @@
 		(fields_autoplaced yes)
 		(uuid "be7ef3b3-6818-4806-9667-c955b8a31e46")
 		(property "Reference" "J1"
-			(at 73.025 59.69 0)
+			(at 127.635 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1385,7 +1385,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 73.025 62.23 0)
+			(at 127.635 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1393,7 +1393,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 72.39 67.31 0)
+			(at 127 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1402,7 +1402,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 67.31 0)
+			(at 127 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1411,7 +1411,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 72.39 67.31 0)
+			(at 127 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1442,7 +1442,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x09_Pin")
-		(at 72.39 92.71 0)
+		(at 127 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1451,7 +1451,7 @@
 		(fields_autoplaced yes)
 		(uuid "e62fa674-0d3b-4bab-ba6f-491845ec8a84")
 		(property "Reference" "J3"
-			(at 73.025 77.47 0)
+			(at 127.635 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1459,7 +1459,7 @@
 			)
 		)
 		(property "Value" "Conn_01x09_Pin"
-			(at 73.025 80.01 0)
+			(at 127.635 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1467,7 +1467,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
-			(at 72.39 92.71 0)
+			(at 127 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1476,7 +1476,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 92.71 0)
+			(at 127 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1485,7 +1485,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x09, script generated"
-			(at 72.39 92.71 0)
+			(at 127 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
