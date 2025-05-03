@@ -2392,7 +2392,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7K"
 			(at 100.33 153.6699 0)
 			(effects
 				(font
@@ -2461,7 +2461,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32.768 KHz"
 			(at 31.75 60.9599 90)
 			(effects
 				(font
@@ -2601,7 +2601,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 97.79 50.7999 0)
 			(effects
 				(font
@@ -3193,7 +3193,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22pF"
 			(at 124.46 119.3799 0)
 			(effects
 				(font
@@ -3351,7 +3351,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7K"
 			(at 89.6777 153.5989 0)
 			(effects
 				(font
@@ -3421,7 +3421,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "16 MHz"
 			(at 139.7 110.4899 90)
 			(effects
 				(font
@@ -3490,7 +3490,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 120.65 90.17 90)
 			(effects
 				(font
@@ -3687,7 +3687,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100nF"
 			(at 200.66 90.5509 0)
 			(effects
 				(font
@@ -3820,7 +3820,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 137.16 125.73 90)
 			(effects
 				(font
@@ -3888,7 +3888,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 135.89 73.66 90)
 			(effects
 				(font
@@ -3957,7 +3957,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 88.1223 50.8709 0)
 			(effects
 				(font
@@ -4106,7 +4106,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22pF"
 			(at 124.46 107.9499 0)
 			(effects
 				(font
@@ -4176,7 +4176,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 109.22 50.7999 0)
 			(effects
 				(font
@@ -4398,7 +4398,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 195.58 116.8399 0)
 			(effects
 				(font
